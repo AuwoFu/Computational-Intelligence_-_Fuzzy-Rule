@@ -1,5 +1,16 @@
 # Computational-Intelligence_Fuzzy-Rule
 
-This is HW1 for class "Computer-Intelligence".The target of this project is to make the car move to the specific area without control by using fuzzy rules.
+使用模糊規則設計自走車成功走到終點
 
+# 操作
+
+- 顯示：
+-- 右側:顯示地圖與行進動畫；
+-- 左側上方:文字欄位依序為中央探測器偵測距離，左側偵測距離，右側偵測距離，車輛當前方向，偵測後接下來要轉的角度；
+-- 左下方:狀態顯示
+- 按鈕：
+-- Start：開始/從頭開始
+-- Pause：暫停，再按一次為繼續
+-- Choose Map:選擇地圖，會根據地圖格式判斷正確與否，關閉選擇視窗則維持當前地圖
+-- Choose Record：選擇路徑檔，檔案格式採用6D，路徑檔選擇後須選擇採用的地圖，若關閉視為採用當前地圖
 
