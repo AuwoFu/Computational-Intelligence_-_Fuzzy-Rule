@@ -23,7 +23,7 @@
 <img width="273" alt="3" src="https://user-images.githubusercontent.com/59794062/115122159-0ed57a80-9fe9-11eb-9c72-6033225975e6.PNG">
 
 
-![1](https://user-images.githubusercontent.com/59794062/115122198-493f1780-9fe9-11eb-9cc3-fd5fc7090524.jpg)
-![2](https://user-images.githubusercontent.com/59794062/115122200-4b08db00-9fe9-11eb-9f44-04a657e893e2.jpg)
+![1](https://user-images.githubusercontent.com/59794062/115122198-493f1780-9fe9-11eb-9cc3-fd5fc7090524.jpg=188x100)
+![2](https://user-images.githubusercontent.com/59794062/115122200-4b08db00-9fe9-11eb-9f44-04a657e893e2.jpg=156x100)
 
 
