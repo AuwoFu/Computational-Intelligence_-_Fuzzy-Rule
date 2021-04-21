@@ -22,3 +22,6 @@
 方程式如下，l為左探測距離，r為右探測距離，相距不大定義為小於7，max⁡difference代表l與r相距多大時必須立刻轉動最大角度，設定為15。
 <img width="273" alt="3" src="https://user-images.githubusercontent.com/59794062/115122159-0ed57a80-9fe9-11eb-9c72-6033225975e6.PNG">
 
+
+https://user-images.githubusercontent.com/59794062/115582072-29666700-a2fb-11eb-92b3-202c15f90c6f.mp4
+
